@@ -1,5 +1,16 @@
-def hello_t
+def hello_t(array)
+  i = 0
+  
+  while i < 0 array.length
+  yield array [i]
+  i= i + 1
 
+
+end
+  
+  
+  
+  
 end
 
 # call your method here!
